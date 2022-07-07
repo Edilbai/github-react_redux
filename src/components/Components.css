@@ -1,0 +1,8 @@
+.container{
+    width: 50%;
+}
+.follow_block{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}

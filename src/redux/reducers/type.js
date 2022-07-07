@@ -1,0 +1,4 @@
+export const USER_BY_NAME = 'USER_BY_NAME'
+export const USERS_FOLLOWERS ='USERS_FOLLOWERS'
+export const USERS_FOLLOWING = 'USERS_FOLLOWING'
+export const USERS_REPOS = 'USERS_REPOS'

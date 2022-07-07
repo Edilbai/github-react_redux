@@ -1,0 +1,6 @@
+.mainpage{
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
